@@ -1,0 +1,15 @@
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MatchGame.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MainWindow.g.cs
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\App.g.cs
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MainWindow.baml
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MatchGame.g.resources
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
