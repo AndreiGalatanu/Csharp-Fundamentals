@@ -1,0 +1,13 @@
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\obj\Debug\netcoreapp3.1\CardPicker.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\obj\Debug\netcoreapp3.1\CardPicker.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\obj\Debug\netcoreapp3.1\CardPicker.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\obj\Debug\netcoreapp3.1\CardPicker.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\bin\Debug\netcoreapp3.1\CardPicker.exe
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\bin\Debug\netcoreapp3.1\CardPicker.deps.json
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\bin\Debug\netcoreapp3.1\CardPicker.runtimeconfig.json
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\bin\Debug\netcoreapp3.1\CardPicker.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\bin\Debug\netcoreapp3.1\CardPicker.dll
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\bin\Debug\netcoreapp3.1\CardPicker.pdb
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\obj\Debug\netcoreapp3.1\CardPicker.dll
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\obj\Debug\netcoreapp3.1\CardPicker.pdb
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\CardPicker\obj\Debug\netcoreapp3.1\CardPicker.genruntimeconfig.cache
