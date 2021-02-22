@@ -1,0 +1,15 @@
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\bin\Debug\PickACardUI.exe.config
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\bin\Debug\PickACardUI.exe
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\bin\Debug\PickACardUI.pdb
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\PickACardUI.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\MainWindow.g.cs
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\App.g.cs
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\PickACardUI_MarkupCompile.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\PickACardUI_MarkupCompile.lref
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\MainWindow.baml
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\PickACardUI.g.resources
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\PickACardUI.Properties.Resources.resources
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\PickACardUI.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\PickACardUI.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\PickACardUI.exe
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\PickACardUI\obj\Debug\PickACardUI.pdb
