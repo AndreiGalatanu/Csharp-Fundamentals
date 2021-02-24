@@ -1,0 +1,13 @@
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\bin\Debug\netcoreapp3.1\HeadFirstCsharp_01.exe
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\bin\Debug\netcoreapp3.1\HeadFirstCsharp_01.deps.json
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\bin\Debug\netcoreapp3.1\HeadFirstCsharp_01.runtimeconfig.json
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\bin\Debug\netcoreapp3.1\HeadFirstCsharp_01.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\bin\Debug\netcoreapp3.1\HeadFirstCsharp_01.dll
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\bin\Debug\netcoreapp3.1\HeadFirstCsharp_01.pdb
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\obj\Debug\netcoreapp3.1\HeadFirstCsharp_01.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\obj\Debug\netcoreapp3.1\HeadFirstCsharp_01.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\obj\Debug\netcoreapp3.1\HeadFirstCsharp_01.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\obj\Debug\netcoreapp3.1\HeadFirstCsharp_01.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\obj\Debug\netcoreapp3.1\HeadFirstCsharp_01.dll
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\obj\Debug\netcoreapp3.1\HeadFirstCsharp_01.pdb
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\HeadFirstCsharp_01\obj\Debug\netcoreapp3.1\HeadFirstCsharp_01.genruntimeconfig.cache
