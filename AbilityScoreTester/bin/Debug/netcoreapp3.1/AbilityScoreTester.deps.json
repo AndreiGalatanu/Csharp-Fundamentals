@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AbilityScoreTester/1.0.0": {
+        "runtime": {
+          "AbilityScoreTester.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbilityScoreTester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

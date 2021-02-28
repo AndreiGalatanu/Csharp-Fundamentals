@@ -1,0 +1,13 @@
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.exe
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.deps.json
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.runtimeconfig.json
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.dll
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\bin\Debug\netcoreapp3.1\AbilityScoreTester.pdb
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.dll
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.pdb
+C:\Users\Andrei\source\repos\CSharpFundamentals_Exercises\AbilityScoreTester\obj\Debug\netcoreapp3.1\AbilityScoreTester.genruntimeconfig.cache

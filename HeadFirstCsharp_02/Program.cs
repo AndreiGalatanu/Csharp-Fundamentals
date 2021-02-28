@@ -4,6 +4,7 @@ namespace HeadFirstCsharp_02
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the casino. The odds are 0.75");
